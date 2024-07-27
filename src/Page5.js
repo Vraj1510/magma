@@ -1,5 +1,5 @@
 import React from 'react';
-import factory from '/Users/vrajshah1510/Documents/magma/src/Images/factory.jpeg';
+import factory from '../src/Images/factory.jpeg';
 const Page5 = () => {
   return (
     <div class='px-8 pt-16 pb-10 bg-gray-100' id='mpf'>

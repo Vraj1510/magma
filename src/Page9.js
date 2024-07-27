@@ -1,9 +1,9 @@
 import React from 'react';
-import gcnew from '/Users/vrajshah1510/Documents/magma/src/Images/gcnew.png';
-import allinone from '/Users/vrajshah1510/Documents/magma/src/Images/allinone.svg';
-import titancapital from '/Users/vrajshah1510/Documents/magma/src/Images/titancapital.png';
-import invert from '/Users/vrajshah1510/Documents/magma/src/Images/wehventureinvert.png';
-import accion from '/Users/vrajshah1510/Documents/magma/src/Images/accion.png';
+import gcnew from '../src/Images/gcnew.png';
+import allinone from '../src/Images/allinone.svg';
+import titancapital from '../src/Images/titancapital.png';
+import invert from '../src/Images/wehventureinvert.png';
+import accion from '../src/Images/accion.png';
 const Page9 = () => {
   return (
     <div class='flex flex-col items-center justify-center py-12 text-center bg-gray-100'>

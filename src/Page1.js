@@ -1,7 +1,7 @@
 import React from 'react';
-import navbg from '/Users/vrajshah1510/Documents/magma/src/Images/navbar_background.png';
-import logo from '/Users/vrajshah1510/Documents/magma/src/Images/logo.png';
-import page1 from '/Users/vrajshah1510/Documents/magma/src/Images/laptop_banner_2.png';
+import navbg from '../src/Images/navbar_background.png';
+import logo from '../src/Images/logo.png';
+import page1 from '../src/Images/laptop_banner_2.png';
 
 const Page1 = () => {
   return (

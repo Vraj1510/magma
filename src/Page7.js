@@ -1,7 +1,7 @@
 import React from 'react';
-import magma_factory from '/Users/vrajshah1510/Documents/magma/src/Images/magma_factory.png';
-import magport from '/Users/vrajshah1510/Documents/magma/src/Images/magport.png';
-import magma_green from '/Users/vrajshah1510/Documents/magma/src/Images/magma_green.png';
+import magma_factory from '../src/Images/magma_factory.png';
+import magport from '../src/Images/magport.png';
+import magma_green from '../src/Images/magma_green.png';
 const Page7 = () => {
   return (
     <div

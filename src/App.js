@@ -1,7 +1,7 @@
 import './index.scss';
-import navbg from '/Users/vrajshah1510/Documents/magma/src/Images/navbar_background.png';
-import logo from '/Users/vrajshah1510/Documents/magma/src/Images/logo.png';
-import page1 from '/Users/vrajshah1510/Documents/magma/src/Images/laptop_banner_2.png';
+import navbg from '../src/Images/navbar_background.png';
+import logo from '../src/Images/logo.png';
+import page1 from '../src/Images/laptop_banner_2.png';
 // import Page1 from './Page1';
 import Page2 from './Page2';
 import Page3 from './Page3';

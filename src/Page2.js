@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { FaBars, FaCaretDown } from 'react-icons/fa'; // Import React icons
-import navbg from '/Users/vrajshah1510/Documents/magma/src/Images/navbar_background.png';
-import logo from '/Users/vrajshah1510/Documents/magma/src/Images/logo.png';
-import page1 from '/Users/vrajshah1510/Documents/magma/src/Images/laptop_banner_2.png';
-import phone_banner from '/Users/vrajshah1510/Documents/magma/src/Images/phone_banner.jpg';
+import navbg from '../src/Images/navbar_background.png';
+import logo from '../src/Images/logo.png';
+import page1 from '../src/Images/laptop_banner_2.png';
+import phone_banner from '../src/Images/phone_banner.jpg';
 
 const Page2 = () => {
   const [display, setDisplay] = useState(false);

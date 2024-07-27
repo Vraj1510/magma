@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '/Users/vrajshah1510/Documents/magma/src/Images/logo.png';
+import logo from '../src/Images/logo.png';
 import { FaLinkedin, FaTwitter, FaInstagram, FaEnvelope } from 'react-icons/fa';
 const Page11 = () => {
   return (

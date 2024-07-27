@@ -1,20 +1,18 @@
 import React from 'react';
-import agl_2 from '/Users/vrajshah1510/Documents/magma/src/Images/agl_2.png';
-import adani from '/Users/vrajshah1510/Documents/magma/src/Images/adani.png';
-import adicon from '/Users/vrajshah1510/Documents/magma/src/Images/adicon.png';
-import anchor from '/Users/vrajshah1510/Documents/magma/src/Images/anchor.png';
-import confidence_2 from '/Users/vrajshah1510/Documents/magma/src/Images/confidence_2.png';
-import externalfactory from '/Users/vrajshah1510/Documents/magma/src/Images/externalfactory.png';
-import varmora_2 from '/Users/vrajshah1510/Documents/magma/src/Images/varmora_2.png';
-import kajaria_2 from '/Users/vrajshah1510/Documents/magma/src/Images/kajaria_2.png';
-import simpolo_2 from '/Users/vrajshah1510/Documents/magma/src/Images/simpolo_2.png';
-import jsw_2 from '/Users/vrajshah1510/Documents/magma/src/Images/jsw_2.png';
-import moglix from '/Users/vrajshah1510/Documents/magma/src/Images/moglix.png';
-import zetwerk_2 from '/Users/vrajshah1510/Documents/magma/src/Images/zetwerk_2.png';
-import '/Users/vrajshah1510/Documents/magma/src/';
+import agl_2 from '../src/Images/agl_2.png';
+import adani from '../src/Images/adani.png';
+import adicon from '../src/Images/adicon.png';
+import anchor from '../src/Images/anchor.png';
+import confidence_2 from '../src/Images/confidence_2.png';
+import externalfactory from '../src/Images/externalfactory.png';
+import varmora_2 from '../src/Images/varmora_2.png';
+import kajaria_2 from '../src/Images/kajaria_2.png';
+import simpolo_2 from '../src/Images/simpolo_2.png';
+import jsw_2 from '../src/Images/jsw_2.png';
+import moglix from '../src/Images/moglix.png';
+import zetwerk_2 from '../src/Images/zetwerk_2.png';
 import { useEffect } from 'react';
 const Page8 = () => {
- 
   return (
     <div className='px-8 py-12 bg-orange-100 overflow-hidden'>
       <div className='flex flex-col max-w-screen-xl mx-auto items-center'>

@@ -1,15 +1,15 @@
 import React from 'react';
 import { FaArrowRight } from 'react-icons/fa';
 import { useState } from 'react';
-import bs2 from '/Users/vrajshah1510/Documents/magma/src/Images/bs2.jpg';
-import et from '/Users/vrajshah1510/Documents/magma/src/Images/et.png';
-import ls from '/Users/vrajshah1510/Documents/magma/src/Images/ls.png';
-import ROCE from '/Users/vrajshah1510/Documents/magma/src/Images/ROCE.jpeg';
-import liquid from '/Users/vrajshah1510/Documents/magma/src/Images/liquid.jpeg';
-import img1 from '/Users/vrajshah1510/Documents/magma/src/Images/img1.jpeg';
-import img2 from '/Users/vrajshah1510/Documents/magma/src/Images/img2.jpeg';
-import img3 from '/Users/vrajshah1510/Documents/magma/src/Images/img3.jpeg';
-import comprehensive_sourcing from '/Users/vrajshah1510/Documents/magma/src/Images/comprehensive_sourcing.jpeg';
+import bs2 from '../src/Images/bs2.jpg';
+import et from '../src/Images/et.png';
+import ls from '../src/Images/ls.png';
+import ROCE from '../src/Images/ROCE.jpeg';
+import liquid from '../src/Images/liquid.jpeg';
+import img1 from '../src/Images/img1.jpeg';
+import img2 from '../src/Images/img2.jpeg';
+import img3 from '../src/Images/img3.jpeg';
+import comprehensive_sourcing from '../src/Images/comprehensive_sourcing.jpeg';
 const Page10 = () => {
   const [activeTab, setActiveTab] = useState('news');
   const arr = [img1, img2, img3];

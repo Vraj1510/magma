@@ -1,5 +1,5 @@
 import React from 'react';
-import factory1 from '/Users/vrajshah1510/Documents/magma/src/Images/factory1.jpeg';
+import factory1 from '../src/Images/factory1.jpeg';
 
 const Page6 = () => {
   return (
