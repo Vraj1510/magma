@@ -1,6 +1,6 @@
-# Magma ⚡
+<img width="1470" alt="Screenshot 2024-07-30 at 9 43 24 PM" src="https://github.com/user-attachments/assets/a1d79392-f2c9-4e82-ada5-fc706be05df6"># Magma ⚡
 
-Welcome to the Magma repository! This project was developed as an internship project for a company and focuses on providing a suite of solutions for factories and suppliers to optimize their operations, manage inventory, and ensure seamless logistics.
+Welcome to the Magma repository! This project was developed as a task-based internship opportunity project for a company and focuses on providing a suite of solutions for factories and suppliers to optimize their operations, manage inventory, and ensure seamless logistics.
 
 ## Table of Contents
 
@@ -47,7 +47,7 @@ Ensures suppliers against timely and hassle-free delivery.
 
 ### Magma Solutions
 
-A suite of solutions offered on a monthly subscription basis to improve factory operations and profitability.
+A suite of solutions is offered on a monthly subscription basis to improve factory operations and profitability.
 
 ## Processes
 
@@ -136,6 +136,14 @@ Information about investors can be added here.
 
 - **Email**: [contact@magma.com](mailto:contact@magma.com)
 - **Newsletter**: Subscribe to our Newsletter, Magma Pulse
+<img width="1470" alt="Screenshot 2024-07-30 at 9 41 58 PM" src="https://github.com/user-attachments/assets/6619f66c-dbeb-4351-bf1e-8977eda25f38">
+<img width="1469" alt="Screenshot 2024-07-30 at 9 42 19 PM" src="https://github.com/user-attachments/assets/28e406e4-e812-41ec-a026-b2e8f687f14c">
+<img width="1470" alt="Screenshot 2024-07-30 at 9 42 33 PM" src="https://github.com/user-attachments/assets/20875d20-10bd-4e1f-8b92-d869872a8acd">
+<img width="1469" alt="Screenshot 2024-07-30 at 9 42 52 PM" src="https://github.com/user-attachments/assets/a9484fe5-b13b-44f2-bd2b-f685d4aaba0b">
+<img width="1470" alt="Screenshot 2024-07-30 at 9 43 07 PM" src="https://github.com/user-attachments/assets/5e5972e8-4c6f-4b7c-ae6a-24fb625c0938">
+<img width="1470" alt="Screenshot 2024-07-30 at 9 43 24 PM" src="https://github.com/user-attachments/assets/c4e537e4-eeaa-4db1-9c8b-7dea2a89c51a">
+<img width="1470" alt="Screenshot 2024-07-30 at 9 44 16 PM" src="https://github.com/user-attachments/assets/06e5518b-53a6-4ddc-ad0b-6a0d9e0d86e1">
+
 
 ## License
 
