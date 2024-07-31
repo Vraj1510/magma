@@ -1,4 +1,3 @@
-<img width="1470" alt="Screenshot 2024-07-30 at 9 43 24 PM" src="https://github.com/user-attachments/assets/a1d79392-f2c9-4e82-ada5-fc706be05df6"># Magma ⚡
 
 Welcome to the Magma repository! This project was developed as a task-based internship opportunity project for a company and focuses on providing a suite of solutions for factories and suppliers to optimize their operations, manage inventory, and ensure seamless logistics.
 
@@ -95,19 +94,16 @@ The Magma Powered Supplier program offers a unique opportunity for growth and su
 
 Powered by Input and Liquid Marketplaces, this platform facilitates multiple touchpoints addressing the diverse requirements of the ecosystem.
 
-[VISIT MAGMA FACTORY](https://example.com)
 
 ### MagPort
 
 Efficient logistics management platform ensuring a seamless digital experience with real-time updates.
 
-[VISIT MAGPORT](https://example.com)
 
 ### Magma Green
 
 SaaS tool that enables factories to generate interactive ESG reports based on material consumption data.
 
-[VISIT MAGMA GREEN](https://example.com)
 
 ## Notable Clients & Suppliers
 
