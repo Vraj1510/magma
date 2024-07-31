@@ -124,9 +124,9 @@ Information about investors can be added here.
 
 ## News
 
-- "Magma strengthens its geographical dominance with entry at APM Terminals, Pipavav Port" - [Read More](https://example.com)
-- "Magma raises $3.3 million in funding led by General Catalyst" - [Read More](https://example.com)
-- "Magma expands into adhesive market with launch of MagFix" - [Read More](https://example.com)
+- "Magma strengthens its geographical dominance with entry at APM Terminals, Pipavav Port"
+- "Magma raises $3.3 million in funding led by General Catalyst"
+- "Magma expands into adhesive market with launch of MagFix" 
 
 ## Contact
 
